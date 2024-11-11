@@ -1,2 +1,34 @@
-# Gallery_Cafe
-The proposed web application for The Gallery Cafe aims to create a seamless digital experience, enhancing customer interaction and operational efficiency. Drawing from similar web designs like CultureColombo.lk, SusieCakes.com, and CostaVida.com, the website will incorporate clean, visually engaging layouts and user-friendly functionality tailored for a restaurant setting. Key features include a vibrant homepage highlighting promotions, a detailed About Us page to establish brand connection, an interactive menu categorized by cuisine types, and a reservation system with real-time availability and pre-ordering options. Users will have the ability to register, save preferences, and streamline their dining experience. The system will also support specific roles for Admin and Operational Staff, allowing the management of reservations, menu updates, and promotions, ensuring a smooth and responsive service model.
+# The Gallery Cafe - Web Application
+
+This repository contains the code for a dynamic, database-driven web application for **The Gallery Cafe**, a popular restaurant in Colombo. The application is designed to enhance customer engagement and streamline operations by managing reservations, food orders, and customer communication.
+
+## Features
+
+- **Interactive Homepage**: Features vibrant images, promotions, and call-to-action buttons for easy navigation.
+- **Menu Page**: Categorized by cuisine types (Sri Lankan, Chinese, Italian, Beverages), with images, descriptions, and prices for each dish.
+- **Table Reservation & Pre-order System**: Allows customers to book tables and pre-order meals based on real-time availability.
+- **User Registration**: Enables customers to create accounts, view past orders, and manage reservations.
+- **Admin & Operational Staff Roles**: Admins manage system settings and menu updates; staff manage reservations and pre-orders.
+
+## Technologies Used
+
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP
+- Database: MySQL
+- Version Control: Git, GitHub
+
+## Getting Started
+
+1. Clone the repository:
+2. git clone [https://github.com/yourusername/the-gallery-cafe.git](https://github.com/PahanSanajana/Gallery_Cafe.git)
+3. Install necessary dependencies and configure the database.
+
+Open the application in your browser and start exploring!
+
+Contact
+For more details or inquiries, feel free to reach out via:
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/pahan-sanjana-68899330b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Instagram: [Your Instagram Profile](https://www.instagram.com/frd_sanjana/?igsh=MWUxbjVjdDhtZGJyOA%3D%3D)
+
+## Contributing
+Contributions are welcome! Please fork the repository, make changes, and submit a pull request.
