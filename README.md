@@ -2,6 +2,8 @@
 
 This repository contains the code for a dynamic, database-driven web application for **The Gallery Cafe**, a popular restaurant in Colombo. The application is designed to enhance customer engagement and streamline operations by managing reservations, food orders, and customer communication.
 
+![image alt](https://github.com/PahanSanajana/Gallery_Cafe/blob/51a5795cb2d396f4a7c58a28251a00f40260bbd3/Gallery%20Cafe.png)
+
 ## Features
 
 - **Interactive Homepage**: Features vibrant images, promotions, and call-to-action buttons for easy navigation.
